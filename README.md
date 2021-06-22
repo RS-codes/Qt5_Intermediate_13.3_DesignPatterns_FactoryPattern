@@ -1,3 +1,5 @@
 # Qt5_Intermediate_13.3_DesignPatterns_FactoryPattern
 
-#SourceCode to be added soon
+#Under design patterns, Factory pattern discussed and
+
+#SourceCode added 
