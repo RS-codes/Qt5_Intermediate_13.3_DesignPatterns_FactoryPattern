@@ -1,0 +1,1 @@
+# Qt5_Intermediate_13.3_DesignPatterns_FactoryPattern
